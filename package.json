@@ -1,0 +1,11 @@
+{
+  "name": "Learn Selenium from Real Case in somewhere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Selenium-Example.js",
+  "dependencies": {
+    "selenium-webdriver": "3.6.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
